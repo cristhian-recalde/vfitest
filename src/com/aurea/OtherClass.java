@@ -1,5 +1,9 @@
 package com.aurea;
 
+/**
+ * checking for this
+ */
+
 public class OtherClass {
 
     private A a = new A();
